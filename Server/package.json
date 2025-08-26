@@ -1,0 +1,12 @@
+{
+  "name": "classroom-server",
+  "version": "1.0.0",
+  "description": "Server side of the Smart Classroom",
+  "main": "index.js",
+  "type" :"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Crish Macwan",
+  "license": "ISC"
+}
